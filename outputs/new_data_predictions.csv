@@ -1,0 +1,9 @@
+text,label,score,model_version,hf_model_id
+The new coffee shop around the corner has cozy seating and great espresso.,POSITIVE,0.9988982677459717,4,siebert/sentiment-roberta-large-english
+Waited forty minutes for cold food and unhelpful service.,NEGATIVE,0.9995081424713135,4,siebert/sentiment-roberta-large-english
+"The presentation was decent enough, nothing groundbreaking though.",POSITIVE,0.9843907952308655,4,siebert/sentiment-roberta-large-english
+Battery life on this phone lasts all day even with heavy use.,POSITIVE,0.9987947940826416,4,siebert/sentiment-roberta-large-english
+The app crashes every time I try to export my report.,NEGATIVE,0.9995056390762329,4,siebert/sentiment-roberta-large-english
+Such a smooth checkout process—ordered in under a minute.,POSITIVE,0.9987908005714417,4,siebert/sentiment-roberta-large-english
+The plot dragged in the second half and felt predictable.,NEGATIVE,0.9995005130767822,4,siebert/sentiment-roberta-large-english
+Customer support resolved my billing issue quickly and politely.,POSITIVE,0.9988260865211487,4,siebert/sentiment-roberta-large-english

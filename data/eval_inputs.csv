@@ -1,0 +1,11 @@
+id,text,label
+1,"I absolutely loved this movie, the plot was fantastic!",POSITIVE
+2,"Terrible service, I waited for an hour and food was cold.",NEGATIVE
+3,"It was an okay experience, nothing special to talk about.",NEGATIVE
+4,"The staff was very welcoming and the ambiance was cozy.",POSITIVE
+5,"Worst purchase I have ever made, broke on day one.",NEGATIVE
+6,"A masterpiece of modern cinema, highly recommended!",POSITIVE
+7,"The pacing was slow and the acting felt very forced.",NEGATIVE
+8,"Brilliant storyline with an unexpected twist at the end.",POSITIVE
+9,"Extremely disappointed with the quality of the product.",NEGATIVE
+10,"Exceeded all my expectations, truly wonderful!",POSITIVE
