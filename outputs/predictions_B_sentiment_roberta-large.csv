@@ -1,0 +1,11 @@
+text,label,prediction,score,correct
+"I absolutely loved this movie, the plot was fantastic!",POSITIVE,POSITIVE,0.9989030361175537,True
+"Terrible service, I waited for an hour and food was cold.",NEGATIVE,NEGATIVE,0.9995088577270508,True
+"It was an okay experience, nothing special to talk about.",NEGATIVE,NEGATIVE,0.9981928467750549,True
+The staff was very welcoming and the ambiance was cozy.,POSITIVE,POSITIVE,0.9989118576049805,True
+"Worst purchase I have ever made, broke on day one.",NEGATIVE,NEGATIVE,0.9995019435882568,True
+"A masterpiece of modern cinema, highly recommended!",POSITIVE,POSITIVE,0.9989120960235596,True
+The pacing was slow and the acting felt very forced.,NEGATIVE,NEGATIVE,0.9995063543319702,True
+Brilliant storyline with an unexpected twist at the end.,POSITIVE,POSITIVE,0.9988688826560974,True
+Extremely disappointed with the quality of the product.,NEGATIVE,NEGATIVE,0.9995019435882568,True
+"Exceeded all my expectations, truly wonderful!",POSITIVE,POSITIVE,0.9989075660705566,True
